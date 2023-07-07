@@ -1,0 +1,12 @@
+.root{
+    -fx-background-color: #000000;
+}
+
+.button{
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-background-radius: 100px;
+    -fx-background-color: #FF003C;
+    -fx-text-fill:white;
+    -fx-start-margin: 20px;
+}
